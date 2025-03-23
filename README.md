@@ -26,8 +26,8 @@ This Power BI project analyzes **hotel performance data** from the Atliq Group, 
 
 ## **Links**
  **Dashboard Overview**: ![Dashboard Image](link_here)    
- **Portfolio Project Page**: [Click Here]([portfolio_link](https://s1nen.github.io/Portfolio-Website/))  
- **LinkedIn**: [Click Here]([(https://www.linkedin.com/in/mohammedsinanak/](https://www.linkedin.com/in/mohammedsinanak/))  
+ **Portfolio Project Page**: https://s1nen.github.io/Portfolio-Website/
+ **LinkedIn**: https://www.linkedin.com/in/mohammedsinanak/
 
 ---
 ### **About This Project**
