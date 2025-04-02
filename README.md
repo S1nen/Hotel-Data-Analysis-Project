@@ -22,7 +22,7 @@ This Power BI project analyzes **hotel performance data** , covering multiple pr
  **Platform-based discounting strategies** were suggested to optimize direct bookings **without affecting third-party platform rankings** (e.g., MakeMyTrip, Agoda).
 
 ## **Power BI Report & Files**
-- **Power BI Report (.PBIX / .PBIT)**: [Download Here](https://drive.google.com/drive/folders/19DvArths-RAZNM-H2pLkZZZdUdHjVV6C?usp=sharing)   
+- **Power BI Report (.PBIX / .PBIT)**: [Click Here](https://app.powerbi.com/reportEmbed?reportId=f932816e-c6b5-4cfe-9764-0b61d873f5f1&autoAuth=true&ctid=ac96d080-3376-4e49-9cbc-95f21bf77faa)   
 
 ## **Links**  
  **Portfolio Project Page**: https://s1nen.github.io/Portfolio-Website/
