@@ -40,8 +40,9 @@ This project showcases **business intelligence and data analytics capabilities**
 
 <img width="537" alt="Tooltip2 Screenshot" src="https://github.com/user-attachments/assets/55ed5e6b-0e00-4351-8df2-dc4de7278980" />
 
-## Author
+## 🚫 License
 
-- **Mohammed Sinan A K** – [@S1nen](https://github.com/S1nen)
+This project is **not open source**. It is shared publicly for **portfolio and demonstration purposes only**.
 
-If you use this project, please give proper credit by linking back to this repository.
+Reuse, reproduction, or modification of this code is **not permitted** without express written permission.
+
