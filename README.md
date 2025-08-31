@@ -1,4 +1,4 @@
-# Hospitality business insights – AtliQ Hotels
+# Hospitality business Data Analysis
 ## **Overview**
 This Power BI project analyzes **hotel performance data** , covering multiple properties across cities in India. The interactive dashboard provides data-driven insights into **revenue trends, occupancy rates, pricing strategies, and cancellations**, helping optimize business decision-making and revenue management.
 ## The .pbix file is available upon request
